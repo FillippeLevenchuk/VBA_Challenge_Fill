@@ -6,8 +6,6 @@ Dim ws As Worksheet
 Dim biggest_increase As String
 Dim biggest_decrease As String
 Dim biggest_volume
-Dim ticker As String
-Dim value As String
 
 For Each ws In ThisWorkbook.Worksheets
 
